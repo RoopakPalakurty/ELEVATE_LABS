@@ -1,0 +1,11 @@
+2025-07-29 15:47:57.805836 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:47:58.842765 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:47:59.926282 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:00.946238 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:01.965474 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:02.995207 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:04.018005 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:05.048196 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:06.067725 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:07.084158 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
+2025-07-29 15:48:08.119862 - BLOCKED: ICMP packet - Ether / IP / ICMP 10.12.106.17 > 192.168.1.10 echo-request 0 / Raw
